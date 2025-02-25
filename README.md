@@ -17,9 +17,8 @@ Using **Python and Data Visualization**, we will explore trends related to **res
   - `Cost for Two` - Approximate cost for two people (INR)  
   - `Online Delivery Available` - Whether online delivery is available (`Yes` or `No`)  
 
-📥 **Download Dataset:** [Zomato.csv](https://raw.githubusercontent.com/username/EDA-Zomato-Bangalore/main/zomato.csv)  
-
----
+📥 **Download Dataset:** [Zomato.csv](https://github.com/Rajnandini-0804/EDA-Zomato-Bangalore/blob/main/Zomato.csv)  
+                                    
 
 ## 📊 Key Insights from the Analysis  
 ✅ **Koramangala & Indiranagar** have the highest number of restaurants.  
@@ -44,3 +43,4 @@ We used **Seaborn and Matplotlib** to create various charts, such as:
 📌 **Online Delivery Trends in Different Areas**  
 
 ---
+🔗 **View the Full Analysis:** [Zomato_EDA.ipynb](https://github.com/yourusername/EDA-Zomato-Bangalore/blob/main/Zomato_EDA.ipynb)
