@@ -43,4 +43,4 @@ We used **Seaborn and Matplotlib** to create various charts, such as:
 📌 **Online Delivery Trends in Different Areas**  
 
 ---
-🔗 **View the Full Analysis:** [Zomato_EDA.ipynb](https://github.com/yourusername/EDA-Zomato-Bangalore/blob/main/Zomato_EDA.ipynb)
+🔗 **View the Full Analysis:** [Zomato_EDA.ipynb](https://github.com/Rajnandini-0804/EDA-Zomato-Bangalore/blob/main/Zomato%20Bangalore%20EDA.ipynb)
